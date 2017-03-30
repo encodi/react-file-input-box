@@ -38,9 +38,9 @@ var FileInputBox = require('react-file-input-box');
 
 ### Properties
 
-**name** optional String that could help reference the input box
-**label** optional String for a Left side <label></label>
-**handleInput** required Function callback that will manage the value of the input
+* name optional String that could help reference the input box
+* label optional String for a Left side <label></label>
+* handleInput required Function callback that will manage the value of the input
 
 ### Notes
 

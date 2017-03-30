@@ -1,6 +1,6 @@
 {
   "name": "react-file-input-box",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "File Input Box",
   "main": "lib/FileInputBox.js",
   "author": "encodi",

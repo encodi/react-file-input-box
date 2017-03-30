@@ -1,0 +1,29 @@
+{
+  "name": "react-file-input-box",
+  "version": "0.0.0",
+  "description": "File Input Box",
+  "main": "dist/react-file-input-box.min.js",
+  "homepage": "https://github.com/encodi/react-file-input-box",
+  "authors": [
+    "encodi"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
